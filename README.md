@@ -110,17 +110,17 @@ port = 5432
 
 ---
 
-### 4. Create the Database
+<!-- ### 4. Create the Database
 
 Run the SQL schema file in PostgreSQL:
 
-```bash
+<!-- ```bash
 script1_schema.sql
 ```
 
 This will create all required tables.
 
----
+--- --> -->
 
 ### 5. Run the Application
 
